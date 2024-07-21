@@ -56,6 +56,9 @@ The production build will be available in the dist directory.
 ![alt text](images/m20-ss3.png)
 ![alt text](images/m20-ss4.png)
 
+## Deployed Link
+https://fantastic-kitsune-8e0236.netlify.app/
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
